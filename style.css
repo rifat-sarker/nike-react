@@ -1,0 +1,26 @@
+
+
+.benefits_custom {
+    display: flex!important;
+    align-items: center;
+}
+
+.benefits_des{
+
+    position: relative;
+    left: 20px;
+}
+
+.d-flex {
+    display: flex!important;
+    align-items: center;
+}
+
+img.img_custom {
+    width: 86px;
+}
+
+.d-flex {
+    display: flex!important;
+    align-items: center;
+}
